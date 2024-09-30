@@ -1,0 +1,1 @@
+$\begin{aligned}\psi:&\mathbb{N}^*\to\mathbb{R}\\&n\to\psi(n)=a_n\end{aligned}$
