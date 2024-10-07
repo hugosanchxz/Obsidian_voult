@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e100471743c4610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problema de oscilador amortiguado crítico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Límite y continuidad de funciones reales.md",
+                "file": "Problema de oscilador amortiguado crítico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Límite y continuidad de funciones reales.md",
+                "file": "Problema de oscilador amortiguado crítico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Límite y continuidad de funciones reales.md"
+                "file": "Problema de oscilador amortiguado crítico.md"
               }
             }
           },
@@ -159,11 +172,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "9f1cf125a93c22b4",
+  "active": "6e100471743c4610",
   "lastOpenFiles": [
+    "Maths/Límite y continuidad de funciones reales.md",
+    "Problema de oscilador amortiguado crítico.md",
     "Pasted image 20241006013933.png",
     "Sucesión de números reales.md",
-    "Maths/Límite y continuidad de funciones reales.md",
     "Maths/Untitled",
     "Maths",
     "Untitled.canvas",
