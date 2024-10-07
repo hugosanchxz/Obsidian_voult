@@ -8,3 +8,9 @@ La entrada a un centro comercial tiene una puerta batiente de 15 kg con un resor
 Para calcular la constante k, usamos la ley de Hooke y la 2ª ley de Newton.
 $$F_{}=-kx$$
 $$F_{}=ma$$
+$$m\frac{d^2x}{dt^2}=-kx$$Mediante la ecuación diferencial de la ecuación armónica sacar la velocidad angular.
+$$x(t)=A\cos(\omega t+\phi)$$
+$$-m\omega^2A\cos(\omega t+\phi)=-kA\cos(\omega t+\phi)$$
+$$\omega=\sqrt{\frac km}$$
+$$T=\frac{2\pi}{\sqrt{\frac{k}{m}}}=2\pi\sqrt{\frac{m}{k}}$$
+$$T=\frac{2\pi}{\sqrt{\frac{k}{m}}}=2\pi\sqrt{\frac{15}{114,59}}=2,2733$$
