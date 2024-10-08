@@ -5,7 +5,10 @@ La entrada a un centro comercial tiene una puerta batiente de 15 kg con un resor
 (c) Si la puerta se encuentra abierta un ángulo de 20º, ¿Qué velocidad mínima tendremos que imprimir al pomo de la puerta, en dirección a la posición de equilibrio, para que esta pase por debajo de su marco? Esto es, que cruce por la posición de equilibrio antes de volver para cerrarse.
 
 #### a) Calcule el periodo de oscilación de la puerta en ausencia de amortiguación.
-Para calcular la constante k, usamos la ley de Hooke y la 2ª ley de Newton.
+Para calcular la constante k, usamos la ley de Hooke y la onda armónica simple.
+No es un movimiento lineal así que x = $\theta$
+$$k=\frac F{r\theta}$$$$k=\frac{18\:\mathrm N}{0.9\:\mathrm m\cdot\frac{\pi}{18}}=\frac{18\times18}{0.9\times\pi}\approx114.6\:\mathrm N/\mathrm m$$
+
 $$F_{}=-kx$$
 $$F_{}=ma$$
 $$m\frac{d^2x}{dt^2}=-kx$$Mediante la ecuación diferencial de la ecuación armónica sacar la velocidad angular.
@@ -14,3 +17,5 @@ $$-m\omega^2A\cos(\omega t+\phi)=-kA\cos(\omega t+\phi)$$
 $$\omega=\sqrt{\frac km}$$
 $$T=\frac{2\pi}{\sqrt{\frac{k}{m}}}=2\pi\sqrt{\frac{m}{k}}$$
 $$T=\frac{2\pi}{\sqrt{\frac{k}{m}}}=2\pi\sqrt{\frac{15}{114,59}}=2,2733$$
+
+#### b) Calcule el coeficiente de amortiguación del sistema.
