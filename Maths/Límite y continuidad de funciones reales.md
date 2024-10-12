@@ -36,6 +36,14 @@ $\lim _{xarroua}\sqrt [ n] {f( x) }= \sqrt [ n] {\lim _{xarrowa}f( x) }\textit{S
 #### Limite de un logaritmo
 
 $$\lim\limits_{x\to a}\left[log_a\:f(x)\right]=log_a\:\left[\lim\limits_{x\to a}f(x)\right]\quad Sia>oyf(x)>0$$
+## Logaritmos naturales
+$$\log_ex=\ln x$$
+$$\ln x=y\quad\Longleftrightarrow\quad e^y=x$$
+
+$$\ln\left(e^x\right)=x\quad x\in\mathbb{R}$$
+
+
+$$e^{\ln x}=x\quad x>0$$
 ## Sucesión de números reales
 
 $$\begin{aligned}\psi:&\mathbb{N}^*\to\mathbb{R}\\&n\to\psi(n)=a_n\end{aligned}$$

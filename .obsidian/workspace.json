@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problema de oscilador amortiguado crítico.md",
+                "file": "Maths/Límite y continuidad de funciones reales.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problema de oscilador amortiguado crítico.md",
+                "file": "Maths/Límite y continuidad de funciones reales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problema de oscilador amortiguado crítico.md",
+                "file": "Maths/Límite y continuidad de funciones reales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problema de oscilador amortiguado crítico.md"
+                "file": "Maths/Límite y continuidad de funciones reales.md"
               }
             }
           },
@@ -174,10 +174,10 @@
   },
   "active": "6e100471743c4610",
   "lastOpenFiles": [
+    "Problema de oscilador amortiguado crítico.md",
     "Problema de oscilador amortiguado crítico.pdf",
     "Pasted image 20241008014755.png",
     "Maths/Límite y continuidad de funciones reales.md",
-    "Problema de oscilador amortiguado crítico.md",
     "Pasted image 20241006013933.png",
     "Sucesión de números reales.md",
     "Maths/Untitled",
