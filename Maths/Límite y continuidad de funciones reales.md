@@ -51,3 +51,8 @@ $$\begin{aligned}\psi:&\mathbb{N}^*\to\mathbb{R}\\&n\to\psi(n)=a_n\end{aligned}$
 $$\lim_{n\to\infty}\left(1+\frac1{a_n}\right)^{a_n}=\mathrm{e}$$
 ## Infinitésimos
 $$\begin{array}{c|c|c}\hline\text{En }x\to0&\text{En }x\to1\\\hline\text{sen }x\equiv x&1-\cos x\equiv\frac{x^2}{2}&\ln(x)\equiv x-1\\\text{tg }x\equiv x&\text{e}^x-1\equiv x&\text{tg}(x^2-1)\equiv x^2-1\\\text{arcsen}x\equiv x&a^x-1\equiv x\cdot\ln a&\text{sen}(x-1)\equiv x-1\\arctgx\equiv x&\ln(1+x)\equiv x&\\\hline\end{array}$$
+$$\begin{aligned}
+&(\sin x)^{\prime}=\cos x&& &&\quad(\operatorname{cosec}x)^{\prime}=-\operatorname{cosec}x\cdot\operatorname{cotg}x \\
+	&(\cos x)^{\prime}=-\sin x&& \quad(\sec x)'=\sec x\cdot\operatorname{tg}x \\
+&(\operatorname{tg}x)'=1+\operatorname{tg}^2x&& \text{-} && \quad(\operatorname{cotg}x)^{\prime}=-1-\operatorname{cotg}^2x 
+\end{aligned}$$
